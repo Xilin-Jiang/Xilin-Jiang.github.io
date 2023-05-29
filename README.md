@@ -1,6 +1,9 @@
 # al-folio
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
@@ -148,31 +151,31 @@ Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_bla
 
 ## Table Of Contents
 
-  * [User community](#user-community)
-  * [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
-  * [Getting started](#getting-started)
-    + [Installation](#installation)
-      - [Local setup using Docker (Recommended on Windows)](#local-setup-using-docker-recommended-on-windows)
-      - [Local Setup (Standard)](#local-setup-standard)
-      - [Deployment](#deployment)
-      - [Upgrading from a previous version](#upgrading-from-a-previous-version)
-    + [FAQ](#faq)
-  * [Features](#features)
-    + [Publications](#publications)
-    + [Collections](#collections)
-    + [Layouts](#layouts)
-      - [The iconic style of Distill](#the-iconic-style-of-distill)
-      - [Full support for math & code](#full-support-for-math--code)
-      - [Photos](#photos)
-    + [Other features](#other-features)
-      - [GitHub repositories and user stats](#github-repositories-and-user-stats)
-      - [Theming](#theming)
-      - [Social media previews](#social-media-previews)
-      - [Atom (RSS-like) Feed](#atom-rss-like-feed)
-      - [Related posts](#related-posts)
-  * [Contributing](#contributing)
-    + [Core Contributors](#core-contributors)
-  * [License](#license)
+* [User community](#user-community)
+* [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
+* [Getting started](#getting-started)
+  + [Installation](#installation)
+    - [Local setup using Docker (Recommended on Windows)](#local-setup-using-docker-recommended-on-windows)
+    - [Local Setup (Standard)](#local-setup-standard)
+    - [Deployment](#deployment)
+    - [Upgrading from a previous version](#upgrading-from-a-previous-version)
+  + [FAQ](#faq)
+* [Features](#features)
+  + [Publications](#publications)
+  + [Collections](#collections)
+  + [Layouts](#layouts)
+    - [The iconic style of Distill](#the-iconic-style-of-distill)
+    - [Full support for math & code](#full-support-for-math--code)
+    - [Photos](#photos)
+  + [Other features](#other-features)
+    - [GitHub repositories and user stats](#github-repositories-and-user-stats)
+    - [Theming](#theming)
+    - [Social media previews](#social-media-previews)
+    - [Atom (RSS-like) Feed](#atom-rss-like-feed)
+    - [Related posts](#related-posts)
+* [Contributing](#contributing)
+  + [Core Contributors](#core-contributors)
+* [License](#license)
 
 ## Getting started
 
@@ -315,9 +318,9 @@ This will instruct jekyll to deploy the website under `$HOME/repo/publishing-sou
 The quote below is taken directly from the [jekyll configuration docs](https://jekyllrb.com/docs/configuration/options/):
 
 > Destination folders are cleaned on site builds
->
+> 
 > The contents of `<destination>` are automatically cleaned, by default, when the site is built. Files or folders that are not created by your site will be removed. Some files could be retained by specifying them within the `<keep_files>` configuration directive.
->
+> 
 > Do not use an important location for `<destination>`; instead, use it as a staging area and copy files from there to your web server.
 
 If `$HOME/repo/publishing-source` contains files that you want jekyll to leave untouched, specify them under `keep_files` in `_config.yml`.
@@ -406,10 +409,11 @@ If you have a different question, please ask using [Discussions](https://github.
    If you are deploying a project page, set `baseurl: /<your-project-name>/`.
 
 4. **Q:** Atom feed doesn't work. Why?
+   
    <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-  RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
-  Make sure to fill them in an appropriate way and try again.
+   RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
+   Make sure to fill them in an appropriate way and try again.
 
 5. **Q:** My site doesn't work when I enable `related_blog_posts`. Why? <br>
    **A:** This is probably due to the [classifier reborn](https://github.com/jekyll/classifier-reborn) plugin, which is used to calculate
@@ -633,8 +637,11 @@ Our most active contributors are welcome to join the maintainers team.
 If you are interested, please reach out!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -647,6 +654,7 @@ If you are interested, please reach out!
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
