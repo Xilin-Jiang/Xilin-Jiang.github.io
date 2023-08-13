@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Wellcome Early Career Fellow, Cambridge University (Jesus College) & Harvard Public Health
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href='https://royalpapworth.nhs.uk/research-and-development/hlri'>HLRI</a></p>
+    <p>Biomedical Campus, Cambridge CB2 0BD, UK</p>
+    <p><a href='https://www.hsph.harvard.edu'>HSPH</a></p>
+    <p>677 Huntington Ave, Boston, MA 02115, United States</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,12 +20,31 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a statistical geneticist working on using molecular data to explain health outcomes. I am particular interested in how additional data modality could enhance our current understanding of disease. 
+I am a statistical geneticist working on using molecular data to explain health outcomes. I am particularly interested in how additional data modality could enhance our current understanding of diseases.
 
-I am working as a British Heart Foundation fellow with with Professor Mike Inouye and Professor John Danesh at Cambridge University, with a secondary appointment at Harvard School of Public Helath with Professor Alkes Price. I got my DPhil in Genomic Medicine and Statistics from Oxford University, funded by a Rhodes Scholarship and a Wellcome Trust studentship. I delivered the scholar address (name for a student speech delivered at the scholarship graduating ceremony) for the Rhodes scholar class of 2017. At the beginning of Pandemic, I worked as a consultant to the Gates Foundation and China CDC. Before my DPhil I worked on neural imaging modelling, analysing both structure and functional MRI data. I received my BSc from Fudan University.
 
- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am broadly interested in two themes of research:
+<ul>
+   <li>Methodology development: I am interested in developing statistical methods to understand the molecular architecture (DNA, RNA, proteomics, metabolomics) of health outcomes (disease, treatment responses, comorbidity). In statistical terminology, I work on dimension reduction, longitudinal analysis, efficient inference methods, and causal inference.</li>
+   <li>Translational research: We are collaborating with the NHS to develop tools and resources for computing risk scores using polygenic models, protein/metaboite levels, and e-health records. We work closely with clinical teams to investigate potential applications including clinical trials, treatment response prediction, and risk stratification. </li>
+</ul>
+
+If you are interested in woring with us, check the [opportunities page](/teaching/)! 
+
+My research is funded by a Wellcome Early-Career award (PI). I have a primary affiliation at Cambridge University and a secondary affiliation at Harvard School of Public Health. My research program is sponsored by Professor [Mike Inouye](https://www.inouyelab.org/home/people) and Professor [John Danesh](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/professor-john-danesh/) at Cambridge University, and Professor [Alkes Price](https://www.hsph.harvard.edu/alkes-price/) at Harvard School of Pulic health. Previously I held a one-year transition British Heart Foundation career development fellowship (2022-2023). I got my DPhil in Genomic Medicine and Statistics from Oxford University, funded by a Rhodes Scholarship and a Wellcome Trust studentship. I received a BSc from Fudan University with an overall top GPA. I have experience in other computational biology topics, including infectious diseases (as a consultant to the Gates Foundation and China CDC on COVID response) and computational neuroscience (as undergraduate researchers with Professor [Thomas Yeo](https://sites.google.com/view/yeolab/thomas) and Professor [David Heeger](http://www.cns.nyu.edu/~david/)).
+
+During my PhD study, I enjoyed Oxford life through many (perhaps too many) events. I delivered the [scholar address](https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s) (name for a student speech delivered at the scholarship graduating ceremony) for the Rhodes scholar class of 2017; I organised two [Rhodes China Trips](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2019/april/cherry-blossoms-cultural-exchange-rhodes-trust-china-trip-2019/).
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s" frameborder="0" allowfullscreen></iframe>
+
+
+I raced middle distance for my undergraduate college and tried triathlons at Oxford. I am currently training for a 15:XX 5k, with a personal best of 16:21. Beside all this, I am an avid cook and enjoy sharing a table of good food (sometimes with a glass of wine) with family and friends. 
+
+
+Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
+
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+

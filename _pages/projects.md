@@ -1,8 +1,8 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+permalink: /opportunities/
+description: Opportunities to work with us!
 nav: true
 nav_order: 2
 display_categories: [work, fun]
