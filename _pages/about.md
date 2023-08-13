@@ -34,17 +34,6 @@ If you are interested in working with us, check the [opportunities page](/opport
 My research is funded by a Wellcome Early-Career award (PI). I have a primary affiliation at Cambridge University and a secondary affiliation at Harvard School of Public Health. My research program is sponsored by Professor [Mike Inouye](https://www.inouyelab.org/home/people) and Professor [John Danesh](https://www.phpc.cam.ac.uk/people/ceu-group/ceu-senior-academic-staff/professor-john-danesh/) at Cambridge University, and Professor [Alkes Price](https://www.hsph.harvard.edu/alkes-price/) at Harvard School of Pulic health. Previously I held a one-year transition British Heart Foundation career development fellowship (2022-2023). I got my DPhil in Genomic Medicine and Statistics from Oxford University, funded by a Rhodes Scholarship and a Wellcome Trust studentship. I received a BSc from Fudan University with an overall top GPA. I have experience in other computational biology topics, including infectious diseases (as a consultant to the Gates Foundation and China CDC on COVID response) and computational neuroscience (as undergraduate researchers with Professor [Thomas Yeo](https://sites.google.com/view/yeolab/thomas) and Professor [David Heeger](http://www.cns.nyu.edu/~david/)).
 
 During my PhD study, I enjoyed Oxford life through many (perhaps too many) events. I delivered the [scholar address](https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s) (name for a student speech delivered at the scholarship graduating ceremony) for the Rhodes scholar class of 2017; I organised two [Rhodes China Trips](https://www.rhodeshouse.ox.ac.uk/news-events/latest-news/news/2019/april/cherry-blossoms-cultural-exchange-rhodes-trust-china-trip-2019/).
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s" frameborder="0" allowfullscreen></iframe>
-
 
 I raced middle distance for my undergraduate college and tried triathlons at Oxford. I am currently training for a 15:XX 5k, with a personal best of 16:21. Beside all this, I am an avid cook and enjoy sharing a table of good food (sometimes with a glass of wine) with family and friends. 
-
-
-Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
