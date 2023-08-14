@@ -2,7 +2,7 @@
 layout: page
 title: software
 permalink: /software/
-description: a list of softwares!
+description: a list of software.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
