@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /opportunities/
-description: Opportunities to work with us!
+title: software
+permalink: /software/
+description: a list of softwares!
 nav: true
 nav_order: 2
 display_categories: [work, fun]

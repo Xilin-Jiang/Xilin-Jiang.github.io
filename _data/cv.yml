@@ -5,6 +5,10 @@
       value: Xilin jiang
     - name: Languages
       value: English, Mandarin
+    - name: Primary Affiliation
+      value: University of Cambridge
+    - name: Secondary Affiliation
+      value: Harvard University 
 
 - title: Education
   type: time_table
@@ -16,9 +20,9 @@
         - Rhodes Scholarship
         - Wellcome Trust Studentship
         - University College
-        - title: Longitidinal modelling of genetic risk for common diseases
+        - Thesis title "Longitidinal modelling of genetic risk for common diseases"
 
-    - title: BSc in Biological Sciences
+    - title: BSc
       institution: Fudan University, Shanghai, China
       year: 2017
       description:

@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Our research program has a unique combination of translational medicine (Cambridge) and strong statistical genetics expertise (Harvard). We are blessed with access to some of the most unique data sets (60 million EHR samples in [CVD-COVID-UK](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/), [INTERVAL](https://www.intervalstudy.org.uk), etc.) Opportunities to work on these projects are always available and I am generally happy to discuss the suitability to work with us or jointly with one of our collaborators.
+Our research program has uniquely combines translational medicine (Cambridge) and strong statistical genetics expertise (Harvard). We are blessed with access to some of the most unique data sets (60 million EHR samples in [CVD-COVID-UK](https://www.hdruk.ac.uk/projects/cvd-covid-uk-project/), [INTERVAL](https://www.intervalstudy.org.uk), etc.) Opportunities to work on these projects are always available and I am generally happy to discuss the suitability to work with us or jointly with one of our collaborators.
 
 
 We are looking for talented postdoctoral fellows/software engineer to join us. If you are a recent PhD graduates and are interested in our projects, please get in touch by sending your cv to me. This position has a primary affiliation at Cambridge University. We could guarantee a global talent visa for international scholars and argue for a reasonable increase of the salary, depending on the experiences. 
