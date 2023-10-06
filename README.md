@@ -1,4 +1,14 @@
-# al-folio
+# using following command for deployment
+
+#### 
+bundle install
+
+bundle exec jekyll serve # this step will help to check the website locally
+
+bin/deploy --user # after git commit all changes
+
+git push
+
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
