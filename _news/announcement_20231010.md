@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ATM](https://www.nature.com/articles/s41588-023-01522-8) paper is online now! 
+[ATM](https://www.nature.com/articles/s41588-023-01522-8) paper is out on Nature Genetics! 

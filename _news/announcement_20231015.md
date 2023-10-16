@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New 10K PB at Cambridge Town and Gown 34:02!
+New 10K PB at [Cambridge Town and Gown](https://www.webscorer.com/race?raceid=332364) 34:02!
