@@ -1,58 +1,19 @@
 ---
 layout: page
-title: software
-permalink: /software/
-description: a list of software.
+title: People
+permalink: /People/
+description: Past and current people
 nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+nav_order: 5
 ---
+## 2024
+* PhD Dissertaion Student (2024-present, co-mentor Michael Inouye): Siyuan Chen, M.S. Computational Genetics & Quantitative Genetics (Harvard University).
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+## 2023
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+* Visiting PhD Student (2023-present, co-mentor Alkes Price): Yujie Zhao, B.S. Psychology (Sun Yat-sen University). 
+* MPhil Dissertation Student (2023-2024): William Marella, B.A. Biology (Brown University). 
+* MPhil Dissertation Student (2023-2024): Yi Wang, B.A. 
+
+
+ 
