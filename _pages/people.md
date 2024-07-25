@@ -20,7 +20,7 @@ nav_order: 2
 
 <br>
 
-* MPhil Dissertation Student (2023-2024): William Marella, B.A. Biology (Brown University). 
+* MPhil Dissertation Student (2023-2024): William Marella, B.A. Biology (Brown University). 2024: Senior Data Analyst, Columbia University.
 
 <br>
 
