@@ -4,7 +4,7 @@ title: People
 permalink: /People/
 description: Past and current people
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 ## 2024
 <br>
