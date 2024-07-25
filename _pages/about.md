@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Wellcome Early Career Fellow, Cambridge University (Jesus College) & Harvard Public Health
 
