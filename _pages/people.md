@@ -9,6 +9,10 @@ nav_order: 2
 ## 2024
 <br>
 
+* Postdoctoral Research Associate (2024-present): Hongjiao (Pearl) Liu, PhD Biostatistics, University of Washington.
+
+<br>
+
 * PhD Dissertaion Student (2024-present, co-mentor Michael Inouye): Siyuan Chen, M.S. Computational Genetics & Quantitative Genetics, Harvard University.
 
 <br>
