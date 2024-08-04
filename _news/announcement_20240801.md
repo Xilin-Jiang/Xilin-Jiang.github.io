@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Wellcome Pearl (Postdoctoral Research Associate) and Siyuan (PhD Dissertation Student) who will be joining us at Cambridge! 
+Welcome Pearl (Postdoctoral Research Associate) and Siyuan (PhD Dissertation Student) who will be joining us at Cambridge! 
