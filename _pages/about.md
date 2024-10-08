@@ -36,5 +36,5 @@ My research is funded by a Wellcome Early-Career award (PI). I have a primary af
 
 During my PhD study, I enjoyed Oxford life through many (perhaps too many) events. I delivered the [scholar address](https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s) (name for a student speech delivered at the scholarship graduating ceremony) for the Rhodes scholar class of 2017; I organised two [Rhodes China Trips]({{ site.url }}/assets/pdf/Small_FinalreportRhodesChinaTrip20190501.pdf); I kept supporting Rhodes Scholarship for China through multiple types of (volunteering) services. 
 
-I raced middle distance for my undergraduate college and tried triathlons at Oxford. I am occasionally [race local runs from 5k up to marathon](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1211646) to maintain fitness. Beside all this, I am an avid cook and enjoy sharing a table of good food (sometimes with a glass of wine) with family and friends. 
+I raced middle distance for my undergraduate college and tried triathlons at Oxford. I occasionally [race local runs from 5k up to marathon](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1211646) to maintain fitness. Beside all this, I am an avid cook and enjoy sharing a table of good food (sometimes with a glass of wine) with family and friends. 
 
