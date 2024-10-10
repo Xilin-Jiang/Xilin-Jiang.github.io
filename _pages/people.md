@@ -32,4 +32,5 @@ nav_order: 2
 
 <br>
 
+\* the organisation of this page is advised and heavily influenced by Alkes Price. 
  
