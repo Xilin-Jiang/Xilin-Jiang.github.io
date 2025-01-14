@@ -11,7 +11,7 @@ profile:
   address: >
     <p><a href='https://royalpapworth.nhs.uk/research-and-development/hlri'>HLRI</a></p>
     <p>Biomedical Campus, Cambridge CB2 0BD, UK</p>
-    <p><a href='https://www.hsph.harvard.edu'>HSPH</a></p>
+    <p><a href='https://hsph.harvard.edu/profile/xilin-jiang/'>HSPH</a></p>
     <p>677 Huntington Ave, Boston, MA 02115, United States</p>
     <p><a href='https://www.jesus.cam.ac.uk/people/Xilin-Jiang'>Jesus College, Cambridge</a></p>
 
