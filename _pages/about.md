@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Wellcome Early Career Fellow, Cambridge University (Jesus College) & Harvard Public Health
+subtitle: "Cambridge University (<a href='https://www.phpc.cam.ac.uk/research/departmental-research-units/cardiovascular-epidemiology-unit-ceu/systems-genomics-0'>Group Page</a>) & Harvard (<a href='https://hsph.harvard.edu/profile/xilin-jiang/'>Department Profile</a>)"
+
 
 profile:
   align: right
