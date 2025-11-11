@@ -6,6 +6,13 @@ description: Past and current people
 nav: true
 nav_order: 2
 ---
+## 2025
+<br>
+
+* Co-supervised PhD Dissertaion Student (2025-present, co-mentor Michael Inouye and Angela Wood): Patrick Gibbs, M.S. BioScience, University of Melbourne.
+
+<br>
+
 ## 2024
 <br>
 
@@ -32,5 +39,5 @@ nav_order: 2
 
 <br>
 
-\* the organisation of this page is advised and heavily influenced by Alkes Price. 
+\* The organisation of this page follows the style of Alkes Price’s webpage.
  
