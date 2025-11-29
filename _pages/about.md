@@ -37,7 +37,7 @@ My research is funded by a Wellcome Early-Career award. I have a primary affilia
 
 During my PhD study, I enjoyed Oxford life through many (perhaps too many) events. I delivered the [scholar address](https://www.youtube.com/watch?v=1zVKDZMq66A&t=536s) (name for a student speech delivered at the scholarship graduating ceremony) for the Rhodes scholar class of 2017; I organised two [Rhodes China Trips]({{ site.url }}/assets/pdf/Small_FinalreportRhodesChinaTrip20190501.pdf); I kept supporting Rhodes Scholarship for China through multiple types of (volunteering) services. 
 
-I raced middle distance for my undergraduate college and tried triathlons at Oxford. I occasionally [race local runs from 5k up to marathon](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1211646) to maintain fitness. Besides all this, I am an avid cook and was an apprentice under a chef specialised in Huai-Yang (淮扬菜) cuisine.
+I raced middle distance for my undergraduate college and tried triathlons at Oxford. I occasionally [race local runs from 5k up to marathon](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1211646) to maintain fitness. Besides all this, I am an avid cook and was an apprentice under a chef specialised in Huai-Yang (<span lang="zh">淮扬菜</span>) cuisine.
 
-For English speakers, my name is pronounced Xi-lin (SHYEE-lin; 熹霖) Jiang (JYAHNG; 江); “Xi” is a common pronunciation in Mandarin, and my name 熹 is one of the 437 distinct Chinese characters that share this pronunciation.
+For English speakers, my name is pronounced Xi-lin (SHYEE-lin; <span lang="zh">熹霖</span>) Jiang (JYAHNG; <span lang="zh">江</span>); “Xi” is a common pronunciation in Mandarin, and my name <span lang="zh">熹</span> is one of the 437 distinct Chinese characters that share this pronunciation.
 
