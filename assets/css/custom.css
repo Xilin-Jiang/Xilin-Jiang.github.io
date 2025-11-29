@@ -1,9 +1,1 @@
----
----
-
-/* Apply Kai-style font only to elements marked as Chinese */
-:lang(zh),
-:lang(zh-Hans),
-:lang(zh-Hant) {
-  font-family: "KaiTi", "Kaiti SC", "STKaiti", "DFKai-SB", "楷体", serif;
-}
+:lang(zh),:lang(zh-Hans),:lang(zh-Hant){font-family:"KaiTi","Kaiti SC","STKaiti","DFKai-SB","楷体",serif}
