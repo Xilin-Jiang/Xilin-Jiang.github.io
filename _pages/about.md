@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a statistical geneticist working on using molecular data to explain health outcomes. I am particularly interested in how additional data modality could enhance our current understanding of diseases.
+I am a health and molecular data scientist working on using molecular data to explain health outcomes. I am particularly interested in how additional data modality could enhance our current understanding of diseases.
 
 
 I am broadly interested in two themes of research:
@@ -40,4 +40,3 @@ During my PhD study, I enjoyed Oxford life through many (perhaps too many) event
 I raced middle distance for my undergraduate college and tried triathlons at Oxford. I occasionally [race local runs from 5k up to marathon](https://www.thepowerof10.info/athletes/profile.aspx?athleteid=1211646) to maintain fitness. Besides all this, I am an avid cook and was an apprentice under a chef specialised in Huai-Yang (<span lang="zh">淮扬菜</span>) cuisine.
 
 For English speakers, my name is pronounced Xi-lin (SHYEE-lin; <span lang="zh">熹霖</span>) Jiang (JYAHNG; <span lang="zh">江</span>); “Xi” is a common pronunciation in Mandarin, and my name <span lang="zh">熹</span> is one of the 437 distinct Chinese characters that share this pronunciation.
-
