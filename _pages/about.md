@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "Cambridge University (<a href='https://www.phpc.cam.ac.uk/research/departmental-research-units/cardiovascular-epidemiology-unit-ceu/systems-genomics-0'>Group Page</a>) & Harvard (<a href='https://hsph.harvard.edu/profile/xilin-jiang/'>Department Profile</a>)"
+subtitle: "Group Leader/Wellcome Fellow, <a href='https://www.phpc.cam.ac.uk/research/departmental-research-units/cardiovascular-epidemiology-unit-ceu/systems-genomics-0'>Cambridge</a> & <a href='https://hsph.harvard.edu/profile/xilin-jiang/'>Harvard</a>"
 
 
 profile:
