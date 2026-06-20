@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a health and molecular data scientist working on using molecular data to explain health outcomes. I am particularly interested in how additional data modality could enhance our current understanding of diseases.
+I am a statistical geneticist working on using molecular data to explain health outcomes. I am particularly interested in how additional data modality could enhance our current understanding of diseases.
 
 
 I am broadly interested in two themes of research:
