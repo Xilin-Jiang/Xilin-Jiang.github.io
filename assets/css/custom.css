@@ -7,3 +7,62 @@
 :lang(zh-Hant) {
   font-family: "KaiTi", "Kaiti SC", "STKaiti", "DFKai-SB", "楷体", serif;
 }
+
+.homepage-content-container {
+  max-width: 1200px;
+}
+
+.about-homepage-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 3fr);
+  grid-template-areas:
+    ". header"
+    "news main";
+  column-gap: 2rem;
+  row-gap: 0;
+  align-items: start;
+}
+
+.about-homepage-header {
+  grid-area: header;
+  min-width: 0;
+}
+
+.about-homepage-main {
+  grid-area: main;
+  min-width: 0;
+}
+
+.about-homepage-news {
+  grid-area: news;
+  min-width: 0;
+}
+
+.about-homepage-news .table-responsive {
+  max-height: 630px;
+  overflow-y: auto;
+}
+
+.about-homepage-main .publications ol.bibliography > li > .row > .col-sm-2.abbr {
+  display: none;
+}
+
+.about-homepage-main .publications ol.bibliography > li > .row > .col-sm-8 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+@media (max-width: 899.98px) {
+  .about-homepage-grid {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "header"
+      "main"
+      "news";
+    gap: 1rem;
+  }
+
+  .about-homepage-news .table-responsive {
+    max-height: 520px;
+  }
+}
