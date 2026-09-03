@@ -39,15 +39,12 @@
           {% assign author_array_limit = site.max_author_limit %}
         {% endif %}
 
-        {%- assign hidden_self_author = false -%}
-        {%- assign hidden_self_first_name = nil -%}
-        {%- assign hidden_self_last_name = nil -%}
-        {%- for author in entry.author_array offset: author_array_limit -%}
-          {%- assign hidden_author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-          {%- if site.scholar.last_name contains hidden_author_last_name and site.scholar.first_name contains author.first -%}
-            {%- assign hidden_self_author = true -%}
-            {%- assign hidden_self_first_name = author.first -%}
-            {%- assign hidden_self_last_name = author.last -%}
+        {%- for author in entry.author_array -%}
+          {%- assign full_author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+          {%- if site.scholar.last_name contains full_author_last_name and site.scholar.first_name contains author.first -%}
+            {%- if forloop.index > author_array_limit -%}
+              {%- assign author_array_limit = forloop.index -%}
+            {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
 
@@ -84,10 +81,6 @@
           {%- endif -%}
         {%- endfor -%}
         {%- assign more_authors = author_array_size | minus: author_array_limit -%}
-        {%- if hidden_self_author -%}
-          ,&nbsp;<em>{{hidden_self_first_name}} {{hidden_self_last_name}}</em>
-          {%- assign more_authors = more_authors | minus: 1 -%}
-        {%- endif -%}
 
         {%- assign more_authors_hide = more_authors | append: " more author" -%}
         {%- if more_authors > 0 -%}
@@ -96,16 +89,9 @@
           {%- endif -%}
           {%- assign more_authors_show = '' -%}
           {%- for author in entry.author_array offset: author_array_limit -%}
-            {%- assign folded_author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
-            {%- assign folded_author_is_self = false -%}
-            {%- if site.scholar.last_name contains folded_author_last_name and site.scholar.first_name contains author.first -%}
-              {%- assign folded_author_is_self = true -%}
-            {%- endif -%}
-            {%- unless folded_author_is_self -%}
-              {%- if more_authors_show != '' -%}
-                {%- assign more_authors_show = more_authors_show | append: ", " -%}
-              {%- endif -%}
-              {%- assign more_authors_show = more_authors_show | append: author.first | append: " " | append: author.last -%}
+            {%- assign more_authors_show = more_authors_show | append: author.first | append: " " | append: author.last -%}
+            {%- unless forloop.last -%}
+              {%- assign more_authors_show = more_authors_show | append: ", " -%}
             {%- endunless -%}
           {%- endfor -%}
           , and
