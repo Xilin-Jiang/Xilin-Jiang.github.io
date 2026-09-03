@@ -6,8 +6,13 @@ description: Publically available software and computational tools
 nav: true
 nav_order: 2
 ---
+#### Comorbidity risk score
+* **Liu et al. 2026**: [Pleiotropic heritability preprint](https://www.medrxiv.org/content/10.64898/2026.08.27.26361302v2).   
+* [Github page](https://github.com/pearl-liu/crscalc).
+<br>
+
 #### Pleiotropic heritability
-* **Zhao et al. 2025**: [Pleiotropic heritability preprint](https://www.medrxiv.org/content/10.1101/2025.06.10.25329261v1.full).  
+* **Zhao et al. 2026**: [Pleiotropic heritability paper](https://www.nature.com/articles/s41588-026-02607-w).  
 * [PHBC software on CRAN](https://cran.r-project.org/web/packages/pleioh2g/index.html).  
 * [Github page](https://github.com/yjzhao1004/pleioh2g).
 <br>

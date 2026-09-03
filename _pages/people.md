@@ -9,7 +9,7 @@ nav_order: 2
 ## 2025
 <br>
 
-* Co-supervised PhD Dissertaion Student (2025-***present***, co-mentor Michael Inouye and Angela Wood): **Patrick Gibbs**, M.S. BioScience, University of Melbourne.
+* PhD Dissertaion Student (2025-***present***): **Patrick Gibbs**, M.S. BioScience, University of Melbourne.
 
 <br>
 
@@ -27,7 +27,7 @@ nav_order: 2
 ## 2023
 <br>
 
-* Visiting PhD Student (2023-***present***, co-mentor Alkes Price): **Yujie Zhao**, B.S. Psychology, Sun Yat-sen University. 
+* Visiting student (2024-***present***); Co-supervised Visiting PhD Student (2023-2024, co-mentor Alkes Price): **Yujie Zhao**, B.S. Psychology, Sun Yat-sen University. 
 
 <br>
 
