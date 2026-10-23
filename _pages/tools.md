@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 #### Comorbidity risk score
-* **Liu et al. 2026**: [Pleiotropic heritability preprint](https://www.medrxiv.org/content/10.64898/2026.08.27.26361302v2).   
+* **Liu et al. 2026**: Comorbidity Risk Score [preprint](https://www.medrxiv.org/content/10.64898/2026.08.27.26361302v2).   
 * [Github page](https://github.com/pearl-liu/crscalc).
 <br>
 
