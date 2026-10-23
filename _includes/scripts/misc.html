@@ -5,7 +5,7 @@
   </script>
 {%- endif %}
 
-{%- if site.enable_medium_zoom %}
+{%- if site.enable_medium_zoom and content contains 'data-zoomable' %}
   <!-- Medium Zoom JS -->
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@{{ site.medium_zoom.version }}/dist/medium-zoom.min.js" integrity="{{ site.medium_zoom.integrity }}" crossorigin="anonymous"></script>
   <script defer src="{{ '/assets/js/zoom.js' | relative_url }}"></script>
@@ -24,4 +24,6 @@
   <!-- Load Common JS -->
   <script src="{{ '/assets/js/no_defer.js' | relative_url }}"></script>
   <script defer src="{{ '/assets/js/common.js' | relative_url }}"></script>
+  {% if content contains '<pre' %}
   <script defer src="{{ '/assets/js/copy_code.js' | relative_url }}" type="text/javascript"></script>
+  {% endif %}

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: People
+title: Team
 permalink: /People/
-description: Past and current people
+description: Past and current team members
 nav: true
 nav_order: 2
 ---
